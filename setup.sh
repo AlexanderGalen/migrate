@@ -54,3 +54,5 @@ curl -fsSL http://install.ohmyz.sh | sh
 # get .zshrc and iterm prefs from from github
 curl -fsSL -o ~/.zshrc https://raw.githubusercontent.com/AlexanderGalen/migrate/master/.zshrc
 curl -fsSL -o ~/Library/Preferences/com.googlecode.iterm2.plist https://github.com/AlexanderGalen/migrate/blob/master/prefs/com.googlecode.iterm2.plist?raw=true
+
+
